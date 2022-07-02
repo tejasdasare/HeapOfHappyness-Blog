@@ -1,4 +1,4 @@
 # HeapOfHappyness-Blog
 heapofhappyness
 
-Blogsite first own development prohect with django.
+Blogsite first own development project with django.
